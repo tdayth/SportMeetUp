@@ -1,0 +1,76 @@
+#landingPage {
+  background-image: url(../../images/cartoonSoccer.jpg);
+  background-size: auto;
+  min-height: 100vh;
+}
+
+html {
+  height: 100%;
+}
+
+.mainContainer {
+  position: absolute;
+  justify-content: center;
+  text-align: center;
+}
+
+.landingHeader {
+  align-self: center;
+  justify-content: center;
+  font-family: "Gill Sans", sans-serif;
+  color: white;
+}
+
+#startactiveText {
+  font-size: 40px;
+  padding-top: 20px;
+  font-weight: bold;
+}
+#underh2 {
+  font-size: 20px;
+  font-weight: bolder;
+  margin-top: -20px;
+  padding-bottom: 20px;
+}
+
+.MuiButton-root.validationButton {
+  position: relative;
+  background-color: #ef233c;
+  margin-right: 10px;
+  right: 20px;
+  font-family: "Gill Sans", sans-serif;
+  font-weight: bold;
+
+  min-width: 15%;
+}
+.buttons {
+  margin-top: 10px;
+}
+
+.buttons ul li {
+  list-style: none;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.textContainer {
+  padding-top: 200px;
+  font-family: "Gill Sans", sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+#welcomeTitle {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  margin-bottom: 15px;
+}
+
+#welcomeText {
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}

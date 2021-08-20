@@ -1,0 +1,88 @@
+.eventDisplayBody {
+	margin-top: 0px;
+	background-color: #ffffff;
+	border-radius: 20px;
+
+	padding: 40px 40px;
+}
+
+.bulletPoints {
+
+}
+
+.eventName {
+  font-size: 50px;
+  font-family: Cambay;
+  font-weight: 400;
+  border-bottom: 1px solid black;
+}
+
+.eventName p {
+	margin: 0;
+}
+
+.joinButtonContainer {
+	/*min-width: 150px;*/
+	width: 20%;
+}
+
+.MuiButton-root.joinEventButton {
+  background-color: #EF233C;
+  font-size: 14px;
+	font-family: "Gill Sans", sans-serif;
+	font-weight: bold;
+  width: 100%;
+}
+
+.loginWarning {
+	background-color: #ffc107;
+	text-align: center;
+	padding: 6px 16px;
+	font-family: Cambay;
+	border-radius: 0px 0px 4px 4px;
+}
+
+.MuiButton-root.removeRoundBottom {
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+
+.MuiButton-root.leaveEventButton {
+	font-family: "Gill Sans", sans-serif;
+	font-weight: bold;
+}
+
+.infoColumn {
+	font-family: Cambay;
+}
+
+.infoColumn li {
+	margin-top: 10px;
+}
+
+.locationColumn {
+	/*float: right;*/
+	font-family: Cambay;
+}
+
+.locationColumn li {
+	margin-top: 10px;
+}
+
+.eventDesciptionContainer {
+
+}
+
+.eventImage {
+	width: 95%;
+}
+
+.eventDesctiption {
+	width: 95%;
+	margin: 0;
+
+	white-space: pre-wrap;
+	font-family: Cambay;
+	font-size: 26;
+	line-height: 30px;
+}

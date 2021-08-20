@@ -1,0 +1,101 @@
+.scrollContainer {
+  height: 79%;
+  background-color: #FFFFFF;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  overflow-y: scroll;
+  /* overflow: -moz-scrollbars-vertical; */
+}
+
+.sport {
+  font-weight: 100;
+  font-size: 20px;
+  font-family: Roboto Slab;
+}
+
+.distance {
+  font-family: Roboto Slab;
+}
+
+.skillLevel {
+  position: flex;
+  font-weight: 400;
+  font-family: Roboto Slab;
+
+}
+
+.eventContainer {
+  height: 50%;
+  width: 90%;
+  margin: 0% 5%;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.imageContainer {
+  flex: 0 1 100px;
+  width: 90%;
+  margin-right: 10%;
+  max-width: 100px;
+}
+
+.detailContainer {
+  flex: 1 1 auto;
+}
+
+.titleAndDistanceContainer {
+  width: 88%;
+  margin: 0% 6%;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+
+.horizontal {
+  border-color: black;
+  width: 92%;
+  margin: 0 4%;
+  width: 100px;
+}
+
+.numPeople {
+  width: 90%;
+  margin-top: 12px;
+  margin: 0 5%;
+}
+
+.scrollElements ul {
+  padding: 0;
+}
+
+.scrollElements ul li {
+  list-style: none;
+  height: 185px;
+  margin: 0%;
+  padding: 4%;
+}
+
+.scrollElements ul li:hover {
+  background-color: #F3F3F3;
+  cursor: pointer;
+}
+
+::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 7px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 100px;
+  background-color: rgba(0, 0, 0.2, 0.24);
+}
+
+.bold {
+  font-weight: 600;
+}

@@ -1,0 +1,66 @@
+.navRight li {
+  float: right;
+}
+
+.loginPopup {
+  position: relative;
+  display: inline-block;
+  float: right;
+}
+
+.dropButton {
+  margin: 0px;
+  cursor: pointer;
+}
+
+.headerText {
+  color: #EDF2F4;
+  font-family: Helvetica, sans-serif;
+}
+
+.headerLogIn {
+  display: flex;
+  color: #EDF2F4;
+  font-family: Helvetica, sans-serif;
+  margin-top: 3px;
+}
+
+.headerTextL {
+  display: block;
+  text-align: center;
+  margin-top: 3px;
+
+  color: #1f1f1f;
+  padding: 14px 16px;
+
+  text-decoration: none;
+
+  font-size: 17px;
+  font-family: Cambay;
+  font-weight: Bold;
+}
+
+.headerTextLogIn {
+  display: block;
+  text-align: center;
+  margin-top: 0px;
+  height: 5px;
+
+  color: #1f1f1f;
+  padding: 14px 16px;
+
+  text-decoration: none;
+
+  font-size: 17px;
+  font-family: Cambay;
+  font-weight: Bold;
+}
+
+.headerTextLogIn:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.headerTextL:hover {
+  text-decoration: underline;
+}

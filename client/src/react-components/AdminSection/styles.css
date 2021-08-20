@@ -1,0 +1,199 @@
+.title {
+  margin-left: 5%;
+  font-size: 3em;
+  font-weight: 800;
+  color: #2B2D42;
+}
+
+.MuiButton-root.event_button {
+  background-color: #8D99AE;
+  font-size: 14px;
+  font-family: Cambay;
+  font-weight: 400;
+  width: 100%;
+  margin-left: 10%;
+  margin-top: 20px;
+  float: right;
+  margin-right: 5%;
+}
+
+.MuiButton-root.filter_button {
+  background-color: #8D99AE;
+  font-size: 14px;
+  font-family: Cambay;
+  font-weight: 400;
+  width: 42.5%;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+
+.gridAdmin {
+  margin-left: 5%;
+  margin-top: 30px;
+}
+
+.MuiButton-root.event_button:hover {
+  background-color: #EF233C;
+  font-size: 14px;
+  font-family: Cambay;
+  font-weight: 400;
+  width: 42.5%;
+  margin-left: 10%;
+  margin-top: 20px;
+  float: right;
+  margin-right: 5%;
+}
+
+.MuiButton-root.filter_button:hover {
+  background-color: #EF233C;
+  font-size: 14px;
+  font-family: Cambay;
+  font-weight: 400;
+  width: 42.5%;
+  margin-left: 5%;
+  margin-top: 20px;
+}
+
+.selector_container {
+  margin-left: 10%;
+}
+
+.selector_title {
+  font-size: 1.4em;
+  color: #2B2D42;
+  font-weight: 600;
+}
+
+.MuiSelect-root.event_select {
+  background-color: #D80032;
+}
+
+.event_information_container {
+  margin-left: 10%;
+}
+
+.information_container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 5%;
+}
+
+.side_title {
+  color: #D80032;
+  margin-right: 5%;
+  margin-top: 5px;
+}
+
+.MuiTextField-root.event_textfield {
+  width: 60%;
+  margin-right: 5%;
+}
+
+.user_information_container {
+  margin-left: 0%;
+}
+
+.information_container_user {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 9%;
+}
+
+.MuiButton-root.user_button {
+  background-color: #8D99AE;
+  font-size: 14px;
+  font-family: Cambay;
+  font-weight: 400;
+  width: 55%;
+  margin-left: 10%;
+  margin-top: 20px;
+  float: right;
+  margin-right: 9%;
+}
+
+.MuiButton-root.user_button:hover {
+  background-color: #EF233C;
+  font-size: 14px;
+  font-family: Cambay;
+  font-weight: 400;
+  width: 55%;
+  margin-left: 10%;
+  margin-top: 20px;
+  float: right;
+  margin-right: 9%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.CreateAnEvent {
+  margin-top: 6%;
+  margin-left: 5%;
+  font-size: 50px;
+  font-weight: 400;
+}
+
+.event-form {
+  position: absolute;
+  top: 20%;
+  left: 40%;
+}
+
+.event-form .MuiGrid-root {
+  text-align: center;
+}
+
+.update_button {
+  background-color: #55C8EC;
+  width: 200px;
+}
+
+.event-form__button-grid {
+  line-height: 5;
+}
+
+.avatar_icon {
+  height: 300px;
+}
+
+.profile_info {
+  width: 60%;
+
+}
+
+.data_field {
+  float: right;
+
+}
+
+.header {
+  font-size: 2em;
+  display: block;
+}
+
+.event_content {
+  width: 90%;
+}
+
+.event_select {
+  width: 10%;
+  margin-left: 70%;
+}
